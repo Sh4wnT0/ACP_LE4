@@ -1,0 +1,6 @@
+Name: Shawn Nicholas F. Tolentino
+Program: BSIT
+Age: 19
+Gender: Male
+Birthday: 09-07-2006
+Contact No.: 987514358
